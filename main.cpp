@@ -4,10 +4,10 @@ using namespace std;
 class Helper
 {
 public:
-	static int StringLength(const char* str)
+	static int StringLength(const char* stringgggg)
 	{
 		int length = 0;
-			while (str[length] != '\0') {
+			while (stringgggg[length] != '\0') {
 				length++;
 			}
 			return length;
